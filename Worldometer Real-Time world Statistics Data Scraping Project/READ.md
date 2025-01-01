@@ -34,7 +34,7 @@ The dataset will contain the following information:<br>
 2)BeautifulSoup: To parse the HTML content and extract relevant data.<br>
 3)Pandas: For data manipulation and storage in a tabular formate(e.g.,CSV)<br>
 
-<h1><Expected Outcomes:</h1>
+<h1>Expected Outcomes:</h1>
 •	Scraping Data: A structured dataset containing information about Worldmeter Real-Time World Statistics Data.<br>
 •	Insights: Basic analysis and insights extracted from the scraped data.<br>
 •	Code: A well- structured and documented codebase for the web scraper and data analysis.<br>
